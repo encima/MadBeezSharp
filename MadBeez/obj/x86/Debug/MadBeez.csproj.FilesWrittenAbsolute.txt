@@ -1,0 +1,12 @@
+/home/encima/Development/java/MadBeez/MadBeez/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/encima/Development/java/MadBeez/MadBeez/obj/x86/Debug/MadBeez.gtk-gui.gui.stetic
+/home/encima/Development/java/MadBeez/MadBeez/bin/Debug/MadBeez.exe.mdb
+/home/encima/Development/java/MadBeez/MadBeez/bin/Debug/MadBeez.exe
+/home/encima/Development/java/MadBeez/MadBeez/obj/x86/Debug/MadBeez.exe
+/home/encima/Development/java/MadBeez/MadBeez/obj/x86/Debug/MadBeez.exe.mdb
+/home/encima/Development/csharp/MadBeez/MadBeez/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/encima/Development/csharp/MadBeez/MadBeez/obj/x86/Debug/MadBeez.gtk-gui.gui.stetic
+/home/encima/Development/csharp/MadBeez/MadBeez/bin/Debug/MadBeez.exe.mdb
+/home/encima/Development/csharp/MadBeez/MadBeez/bin/Debug/MadBeez.exe
+/home/encima/Development/csharp/MadBeez/MadBeez/obj/x86/Debug/MadBeez.exe
+/home/encima/Development/csharp/MadBeez/MadBeez/obj/x86/Debug/MadBeez.exe.mdb
